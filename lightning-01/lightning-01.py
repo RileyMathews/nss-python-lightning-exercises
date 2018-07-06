@@ -6,7 +6,7 @@ def weird_function(list, num, str="hello"):
         print(f"{str} {thing}")
 
 # define arguments for function
-my_list = ["New York", "Dallas", "San Antonio", "Nashville"]   
+my_list = ["New York", "Dallas", "San Antonio", "Nashville"]
 my_number = 3
 my_string = "I have visited"
 
